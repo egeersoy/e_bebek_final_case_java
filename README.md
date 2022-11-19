@@ -1,9 +1,9 @@
 # e_bebek_final_case
 Patika ekibi elektronik eşyaların satıldığı bir sanal bir mağaza açmaya karar verdi ve bu mağazanın ürün yönetim sistemini siz patika gönüllülerinden yapmasını ekliyor.
 
-Sanal Mağazanın adı "PatikaStore" olacaktır.
-Mağazada Markalar oluşturulacak ve ürünler bu markalar ile eşleşecektir.
-id : Markanın sistemde kayıtlı benzersiz numarası
+- Sanal Mağazanın adı "PatikaStore" olacaktır.
+- Mağazada Markalar oluşturulacak ve ürünler bu markalar ile eşleşecektir.
+- id : Markanın sistemde kayıtlı benzersiz numarası
 name : Markanın adı
 Markalar listelenirken her zaman alfabe sırasıyla listelenmelidir.
 Markalar statik olarak kod blokları içerisinden aşağıdaki sıra ile eklenmelidir.
